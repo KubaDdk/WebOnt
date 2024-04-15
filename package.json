@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon labos/007-expressJS/helloWorld.ts"
+    "start": "nodemon labos/011/router-combi.ts"
   },
   "author": "",
   "license": "ISC",
